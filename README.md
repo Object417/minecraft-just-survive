@@ -1,2 +1,2 @@
-# minecraft-just-survive
+# Just Survive
 Minecraft better vanilla experience
